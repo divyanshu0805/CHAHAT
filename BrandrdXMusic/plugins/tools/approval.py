@@ -1,7 +1,7 @@
 import asyncio
 from pyrogram import Client, filters, enums
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
-from VIP_DEVA import app
+from BrandrdXMusic import app
 
 active_buttons = {}
 
